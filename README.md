@@ -15,6 +15,8 @@ I'm a **16-year-old student** passionate about cybersecurity, with a strong focu
 - 🎯 **Goal:** BSCP certification → Junior Penetration Tester
 - 🎓 **Education:** Information Security of Automated Systems (specialized program)
 - 🇷🇺 Based in Russia
+
+
 ![Ha-ha](https://media.tenor.com/-WEizP3LZb8AAAAi/ha-ha.gif)
 ---
 
