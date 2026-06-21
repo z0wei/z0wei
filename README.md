@@ -64,15 +64,15 @@ This repository contains my personal **notes, cheatsheets, and write-ups** for e
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=z0wei&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z0wei&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=z0wei&theme=react-dark)](https://github.com/YOUR_USERNAME)
 
 ---
 
